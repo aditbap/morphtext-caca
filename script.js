@@ -10,6 +10,7 @@ const elts = {
 // The strings to morph between. You can change these to anything you want!
 const texts = [
 "Minal aidzin wal faizin",
+"wal faizin",
 "caca aku maafin",
 "walau sering",
 "bikin salting >_<",
