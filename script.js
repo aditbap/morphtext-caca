@@ -18,7 +18,7 @@ const texts = [
 "yang bener",
 "sering kyk",
 "babi ngepet",
-"heheheheheehehehe"];
+"hehehehehe"];
 
 
 
