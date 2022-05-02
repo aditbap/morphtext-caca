@@ -9,14 +9,16 @@ const elts = {
 
 // The strings to morph between. You can change these to anything you want!
 const texts = [
-"Minal aidzin",
-"wal faizin",
-"caca",
-"aku maafin",
+"Minal aidzin wal faizin",
+"caca aku maafin",
 "walau sering",
-"bikin",
-"salting >_<",
-"tapi boong :p"];
+"bikin salting >_<",
+"tapi boong :p",
+"yang bener",
+"sering kyk",
+"babi ngepet",
+"heheheheheehehehe"];
+
 
 
 // Controls the speed of morphing.
