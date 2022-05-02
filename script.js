@@ -15,7 +15,8 @@ const texts = [
 "aku maafin",
 "walau sering",
 "bikin",
-"salting >_<"];
+"salting >_<",
+"tapi boong :p"];
 
 
 // Controls the speed of morphing.
